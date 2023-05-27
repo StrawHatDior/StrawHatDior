@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### I’m currently learning C++
+### 📫 How to reach me (586)8766600
+### 😄 Pronouns: he/him
 <!--
 **StrawHatDior/StrawHatDior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
